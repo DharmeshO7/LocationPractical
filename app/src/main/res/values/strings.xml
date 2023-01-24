@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationPractical</string>
+    <string name="add_new_place">Add New Place</string>
+    <string name="search_place">Search Place</string>
+    <string name="do_you_want_to_save_this_place">Do you want to save %s?</string>
+    <string name="save">Save</string>
+    <string name="no_places_found">No Places Found</string>
+    <string name="distance">Distance : %.2f KM</string>
+</resources>
